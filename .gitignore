@@ -1,0 +1,11 @@
+# 编译产物
+*.o
+*.exe
+demo
+stream_test
+dump_csv
+out.csv
+
+# 编辑器
+.vscode/
+.DS_Store
